@@ -1,0 +1,15 @@
+F:\lessontask_1\bin\Debug\net6.0\lessontask_1.exe
+F:\lessontask_1\bin\Debug\net6.0\lessontask_1.deps.json
+F:\lessontask_1\bin\Debug\net6.0\lessontask_1.runtimeconfig.json
+F:\lessontask_1\bin\Debug\net6.0\lessontask_1.dll
+F:\lessontask_1\bin\Debug\net6.0\lessontask_1.pdb
+F:\lessontask_1\obj\Debug\net6.0\lessontask_1.csproj.AssemblyReference.cache
+F:\lessontask_1\obj\Debug\net6.0\lessontask_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\lessontask_1\obj\Debug\net6.0\lessontask_1.AssemblyInfoInputs.cache
+F:\lessontask_1\obj\Debug\net6.0\lessontask_1.AssemblyInfo.cs
+F:\lessontask_1\obj\Debug\net6.0\lessontask_1.csproj.CoreCompileInputs.cache
+F:\lessontask_1\obj\Debug\net6.0\lessontask_1.dll
+F:\lessontask_1\obj\Debug\net6.0\refint\lessontask_1.dll
+F:\lessontask_1\obj\Debug\net6.0\lessontask_1.pdb
+F:\lessontask_1\obj\Debug\net6.0\lessontask_1.genruntimeconfig.cache
+F:\lessontask_1\obj\Debug\net6.0\ref\lessontask_1.dll
